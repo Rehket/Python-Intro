@@ -22,7 +22,7 @@ If you cannot install or run Python 3 locally, you can still follow this tutoria
 
 
 ## What is Legacy Python and what is Python 3?
-Python was created in the 1980s. Since then it has gone through many iterations. Currently, there are two major versions: *Legacy* Python (Python 2) or  and Python 3. The Current version as of 5 Sept in 3.7, 3.8 is due by the end of the year.
+Python was created in the 1980s. Since then it has gone through many iterations. Currently, there are two major versions: *Legacy* Python (Python 2) or  and Python 3. The Current version as of 5 Sept is 3.7. Version 3.8 is due by the end of the year.
 
 Legacy Python and Python 3 are very similar, but have a few breaking changes between them making code from one incompatible with the other. 
 
